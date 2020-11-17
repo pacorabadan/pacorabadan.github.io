@@ -1,0 +1,9 @@
+name: "personal-website of pacorabadan"
+output_dir: "."
+navbar:
+  title: "Paco Rabadán Website"
+  left:
+    - text: "Home"
+      href: index.html
+    - text: "About Me"
+      href: about.html
