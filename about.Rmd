@@ -2,4 +2,8 @@
 title: "About Me"
 ---
 
-Why I am awesome.  
+This is Paco.
+
+<img src="images/pacorabadanceuweb.jpg" style="width:50%">
+
+This is 
